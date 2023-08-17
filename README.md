@@ -1,2 +1,2 @@
 # customer_segment_kmeans
-with RFM
+using RFM model
